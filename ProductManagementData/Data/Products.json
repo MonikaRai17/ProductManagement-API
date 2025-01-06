@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mouse",
+    "Price": 500,
+    "Quantity": 200
+  },
+  {
+    "Id": 2,
+    "Name": "Keyboard",
+    "Price": 1200,
+    "Quantity": 100
+  },
+  {
+    "Id": 3,
+    "Name": "Monitor",
+    "Price": 5500.0,
+    "Quantity": 50
+  },
+  {
+    "Id": 4,
+    "Name": "CPU",
+    "Price": 12000,
+    "Quantity": 50
+  },
+  {
+    "Id": 5,
+    "Name": "UPS",
+    "Price": 4000,
+    "Quantity": 50
+  },
+  {
+    "Id": 6,
+    "Name": "Mouse Pad",
+    "Price": 50,
+    "Quantity": 100
+  },
+  {
+    "Id": 7,
+    "Name": "Mobile",
+    "Price": 10000,
+    "Quantity": 21
+  },
+  {
+    "Id": 8,
+    "Name": "Charger",
+    "Price": 1000,
+    "Quantity": 100
+  },
+  {
+    "Id": 9,
+    "Name": "Adaptor",
+    "Price": 1500,
+    "Quantity": 100
+  }
+]
